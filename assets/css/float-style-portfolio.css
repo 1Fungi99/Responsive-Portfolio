@@ -1,0 +1,18 @@
+.clearfix {
+    overflow: auto;
+}
+.container {
+    float: left;
+    padding: 5%;
+    margin-left: 6%;
+}
+
+#text-overlay {
+    position: absolute;
+    margin-top: 10%;
+    text-align: center;
+    width: 280px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    background-color: #4aaaa5;
+}
